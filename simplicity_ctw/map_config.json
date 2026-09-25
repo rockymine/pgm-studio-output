@@ -1,1 +1,1 @@
-{"exclude_islands":[],"exclude_blocks":[],"scan_layer":"cleanbase","scan_layer_confirmed":false,"bounding_box":{"min_x":-100,"min_z":-55,"max_x":101,"max_z":56}}
+{"exclude_islands":[],"exclude_blocks":[],"scan_read":"cleanbase","scan_read_confirmed":false,"bounding_box":{"min_x":-100,"min_z":-55,"max_x":101,"max_z":56}}
